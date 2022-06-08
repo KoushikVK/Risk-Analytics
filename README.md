@@ -49,3 +49,17 @@ The company had rejected the loan (because the client does not meet their requir
 Loan has been cancelled by the client but on different stages of the process.
 
 
+
+
+
+#######According to my Analysis 
+
+![image](https://user-images.githubusercontent.com/51470326/172630061-353166ce-7c2e-462a-898b-52535d1b0fa3.png)
+
+
+
+
+
+
+
+
