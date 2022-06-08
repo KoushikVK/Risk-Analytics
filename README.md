@@ -1,6 +1,9 @@
 # Risk-Analytics
 Risk Analytics in Banking
 
+![image](https://user-images.githubusercontent.com/51470326/172628011-02f07604-cd51-4474-9314-85fae0099387.png)
+
+
 Due to their weak or non-existent credit history, lending providers find it difficult to grant loans to customers. As a result, some consumers take advantage of the situation by becoming defaulters. Assume you work for a consumer finance firm that specializes in providing urban consumers with various sorts of loans. To analyze the patterns in the data, you'll need to apply EDA. This will guarantee that the applicants are not turned down because they are unable to repay the loan.
 
  
@@ -30,6 +33,9 @@ The Company has approved loan Application
 
 ###### Cancelled: 
 During the approval process, the client cancelled the application. Either the customer changed his or her mind about the loan, or in certain situations, due to the client's increased risk, he obtained less favorable pricing, which he did not desire.
+
+
+
 
 ###### Refused: 
 The company had rejected the loan (because the client does not meet their requirements etc.).
