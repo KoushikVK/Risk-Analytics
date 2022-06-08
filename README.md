@@ -1,6 +1,6 @@
 # Risk-Analytics
 
-Intro 
+
 This case study aims to show how EDA may be applied in a real-world corporate setting.
 In this case study, we will obtain a fundamental understanding of risk analytics in banking and financial services, as well as how data is used to decrease the risk of losing money while lending to consumers, in addition to using the methodologies gained in the EDA module.
 
